@@ -1,0 +1,86 @@
+{
+  "company": "JSC NC KazMunayGas",
+  "document": "Eurobond Investor Presentation",
+  "reportingPeriod": "FY2025",
+  "lastUpdated": "March 2026",
+  "metrics": [
+    { "label": "Revenue", "value": "KZT 9,371 bln", "sub": "USD 17,977 mln", "change": "+12.5% y/y" },
+    { "label": "EBITDA", "value": "KZT 2,393 bln", "sub": "USD 4,591 mln", "change": "+19.6% y/y" },
+    { "label": "Net Debt", "value": "KZT 375 bln", "sub": "USD 742 mln", "change": "−67.7% y/y" },
+    { "label": "Net Debt / EBITDA", "value": "~0.16x", "sub": "Industry-leading leverage", "change": "" },
+    { "label": "Moody's", "value": "Baa1", "sub": "Stable Outlook", "change": "" },
+    { "label": "S&P / Fitch", "value": "BBB− / BBB", "sub": "Stable Outlook", "change": "" }
+  ],
+  "sections": [
+    {
+      "title": "Introduction",
+      "slides": [
+        { "num": 1, "title": "Title" },
+        { "num": 2, "title": "Disclaimer & Forward-Looking Statements" },
+        { "num": 3, "title": "Agenda" }
+      ]
+    },
+    {
+      "title": "Transaction",
+      "slides": [
+        { "num": 4, "title": "Transaction Overview & Offering Rationale" }
+      ]
+    },
+    {
+      "title": "Company Overview",
+      "slides": [
+        { "num": 5, "title": "KMG at a Glance" },
+        { "num": 6, "title": "Investment Highlights" }
+      ]
+    },
+    {
+      "title": "Market Context",
+      "slides": [
+        { "num": 7, "title": "Macro & Industry Context" },
+        { "num": 8, "title": "Operational Efficiency & Capital Returns" }
+      ]
+    },
+    {
+      "title": "Business",
+      "slides": [
+        { "num": 9, "title": "Business Segments & Asset Portfolio" },
+        { "num": 10, "title": "Strategic Projects & Growth Pipeline" }
+      ]
+    },
+    {
+      "title": "Financials",
+      "slides": [
+        { "num": 11, "title": "Financial Performance — FY2025" },
+        { "num": 12, "title": "Multi-Year Financial Trend (2022–2025)" },
+        { "num": 13, "title": "Financial Strength & Credit Metrics" },
+        { "num": 14, "title": "Debt Profile & Liability Management" },
+        { "num": 15, "title": "Eurobond Maturity Profile" }
+      ]
+    },
+    {
+      "title": "Credit & Ratings",
+      "slides": [
+        { "num": 16, "title": "Credit Ratings" },
+        { "num": 17, "title": "Capital Returns in a Global Context" },
+        { "num": 18, "title": "Capital Allocation & Dividend Policy" }
+      ]
+    },
+    {
+      "title": "ESG & Risks",
+      "slides": [
+        { "num": 19, "title": "ESG & Sustainability" },
+        { "num": 20, "title": "Risk Factors" }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "slides": [
+        { "num": 21, "title": "Summary Investment Case" }
+      ]
+    }
+  ],
+  "contact": {
+    "email": "ir@kmg.kz",
+    "website": "https://www.kmg.kz/en/investors"
+  }
+}
